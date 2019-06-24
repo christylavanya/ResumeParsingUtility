@@ -1,0 +1,15 @@
+com\hsi\parsing\service\ConvertToMultipleCSVService.class
+com\hsi\parsing\parsers\PdfParser.class
+com\hsi\parsing\controller\ResumeParserController.class
+com\hsi\parsing\model\CandidateInfo.class
+com\hsi\parsing\parsers\DocParser.class
+com\hsi\parsing\service\CSVReaderService.class
+com\hsi\parsing\service\CSVReaderServiceImpl.class
+com\hsi\parsing\CvParserApplication.class
+com\hsi\parsing\Util\ResumeParserConstant.class
+com\hsi\parsing\model\CandidateDetails.class
+com\hsi\parsing\exception\ResumeParsingException.class
+com\hsi\parsing\service\ConvertToMultipleCSVServiceImpl.class
+com\hsi\parsing\config\ResumeParserConfig.class
+com\hsi\parsing\parsers\AbstractParser.class
+com\hsi\parsing\parsers\DocxParser.class
